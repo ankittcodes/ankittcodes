@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **FILESANCTUM - Distributed File Storage System**
 
-- 📫 How to reach me **ankitsinghrawat001@gmail.com**
+- 📫 Contact me @ **ankitsinghrawat001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mcP0RGE9HR0vSS50XbvK80CyaCqlpeAA/view?usp=sharing](https://drive.google.com/file/d/1mcP0RGE9HR0vSS50XbvK80CyaCqlpeAA/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/1mcP0RGE9HR0vSS50XbvK80CyaCqlpeAA/view?usp=sharing](https://drive.google.com/file/d/1mcP0RGE9HR0vSS50XbvK80CyaCqlpeAA/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ankit-singh-rawat-geu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankit-singh-rawat-geu/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ankit-singh-rawat-geu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-singh-rawat-geu" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/ankittcodes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ankittcodes/" height="30" width="40" /></a>
 </p>
 
